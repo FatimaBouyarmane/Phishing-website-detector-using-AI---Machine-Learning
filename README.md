@@ -1,7 +1,5 @@
 # Phishing Website Detector
 
-![Phishing Detector](images/phishing.png) ![Phishing Detector](images/legitimate.png)
-
 <p align="center">
   <img src="images/phishing.png" width="45%" />
   <img src="images/legitimate.png" width="45%" />
