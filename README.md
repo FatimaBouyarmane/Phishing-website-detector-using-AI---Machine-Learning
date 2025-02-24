@@ -4,7 +4,8 @@
   <img src="images/phishing.png" width="45%" />
   <img src="images/legitimate.png" width="45%" />
 </p>
-A machine learning-based tool to detect phishing websites.
+
+  A machine learning-based tool to detect phishing websites. This project uses a Random Forest classifier trained on a dataset of phishing and legitimate URLs to predict whether a given URL is phishing or legitimate.
 
 ## Features
 - Train a model using a dataset of phishing and legitimate URLs.
