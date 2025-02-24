@@ -1,5 +1,7 @@
 # Phishing Website Detector
 
+![Phishing Detector](images/phishing.png)
+
 A machine learning-based tool to detect phishing websites.
 
 ## Features
