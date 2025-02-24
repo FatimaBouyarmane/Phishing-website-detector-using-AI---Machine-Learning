@@ -1,0 +1,9 @@
+url,label
+http://fake-login-page.com,1
+https://www.google.com,0
+http://phishing-site.com,1
+https://www.github.com,0
+http://bank-login.com,1
+https://www.microsoft.com,0
+http://secure-login.net,1
+https://www.amazon.com,0
